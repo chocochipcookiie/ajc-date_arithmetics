@@ -1,0 +1,4 @@
+﻿  lab0.cpp
+c:\users\a\desktop\school\2015 - fall\da - cis 29\week 1\lab 0\project1\project1\date.h(279): warning C4101: 'amountOfMonthsFromEnd' : unreferenced local variable
+c:\users\a\desktop\school\2015 - fall\da - cis 29\week 1\lab 0\project1\project1\date.h(310): warning C4101: 'finalDate' : unreferenced local variable
+  Project1.vcxproj -> C:\Users\a\Desktop\School\2015 - Fall\DA - CIS 29\Week 1\Lab 0\Project1\Debug\Project1.exe
